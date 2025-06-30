@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ahmed</h1>
-<h3 align="left">With three years of experience in web development, I have built a strong foundation of knowledge and skills. I am adept at using both old and new technologies to create modern, professional, and reliable websites.</h3>
+<h3 align="left">I'm a Frontend Developer with a deep passion for transforming ideas into fast,
+accessible, and visually compelling web experiences. I specialize in building modern,
+scalable applications that prioritize performance, responsiveness, and SEO. With a
+strong focus on clean code and intuitive design, I strive to craft seamless user
+journeys that work flawlessly across devices. My drive is to innovate, solve real-world
+challenges, and deliver digital products that are both impactful and delightful to use.</h3>
 
 <br>
 <h3 align="left">Connect with me:</h3>
