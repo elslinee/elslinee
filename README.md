@@ -9,12 +9,9 @@
 <a href="https://instagram.com/elsline__/" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/light/instagram.svg" alt="https://www.instagram.com/elsline__/" height="30" width="40" /></a>
 <a href="https://x.com/elslinee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/twitter-x.svg" alt="https://x.com/elslinee" height="30" width="40" /></a>
 </p>
+
+  <hr/>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-
-
-
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 <h4 align="left">I'm a Full-Stack Developer driven by a passion for turning ideas into high-performance, accessible, and visually engaging digital experiences. I build modern, scalable applications across both the frontend and backend, ensuring seamless performance, strong security, and clean architecture.
