@@ -1,12 +1,10 @@
 <h1 align="left">Hi, I'm Ahmed you can call me 👇 </h1>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer" width="100%" /><h3 align="left">I'm a Frontend Developer with a deep passion for transforming ideas into fast,
-accessible, and visually compelling web experiences. I specialize in building modern,
-scalable applications that prioritize performance, responsiveness, and SEO. With a
-strong focus on clean code and intuitive design, I strive to craft seamless user
-journeys that work flawlessly across devices. My drive is to innovate, solve real-world
-challenges, and deliver digital products that are both impactful and delightful to use.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer" width="100%" />
+<h3 align="left">I'm a Full-Stack Developer driven by a passion for turning ideas into high-performance, accessible, and visually engaging digital experiences. I build modern, scalable applications across both the frontend and backend, ensuring seamless performance, strong security, and clean architecture.
+With a focus on reliability, responsiveness, and SEO, I craft intuitive user journeys backed by robust server-side logic and efficient data handling.
+My mission is to innovate, solve real-world problems, and deliver end-to-end products that are impactful,</h3>
 
 <br>
 <h3 align="left">Connect with me:</h3>
