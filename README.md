@@ -72,13 +72,9 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 </tr>
 </table>
 
-![elslinee's Stats](https://github-readme-stats.vercel.app/api?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-
-
-![elslinee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 
 
-![elslinee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elslinee&theme=material-palenight&hide_border=true)
+
 
 
