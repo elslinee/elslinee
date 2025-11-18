@@ -57,7 +57,8 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 
 <a href="https://linkedin.com/in/elsline/" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt="https://www.linkedin.com/in/elsline/" height="30" width="40" /></a>
 
-<a href="https://fb.com/elsline/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/elsline/" height="30" width="40" /></a>
+<a href="https://fb.com/elsline/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" alt="https://www.facebook.com/elsline/" height="30" width="40" /></a>
+
 
 <a href="https://instagram.com/elsline__/" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt="https://www.instagram.com/elsline__/" height="30" width="40" /></a>
 
