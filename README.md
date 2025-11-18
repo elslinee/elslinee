@@ -61,7 +61,7 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 <tr>
 <td align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=elslinee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Shadow-x78's%20GitHub%20Analytics"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=elslinee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Ahmed Elsline's%20GitHub%20Analytics"/>
 
 </td>
 <td align="center">
