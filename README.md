@@ -2,9 +2,24 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer" width="100%" />
+<div align="center">
+
+
+📧 **Email:** [shadow.xox78@gmail.com](mailto:shadow.xox78@gmail.com) • 📱 **Phone:** [+1234567890](tel:+1234567890)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 👨‍💻 About Me
+
 <h3 align="left">I'm a Full-Stack Developer driven by a passion for turning ideas into high-performance, accessible, and visually engaging digital experiences. I build modern, scalable applications across both the frontend and backend, ensuring seamless performance, strong security, and clean architecture.
 With a focus on reliability, responsiveness, and SEO, I craft intuitive user journeys backed by robust server-side logic and efficient data handling.
 My mission is to innovate, solve real-world problems, and deliver end-to-end products that are impactful,</h3>
+
+<br>
 
 <br>
 <h3 align="left">Connect with me:</h3>
