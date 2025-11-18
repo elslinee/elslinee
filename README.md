@@ -66,7 +66,7 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 </td>
 <td align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=#fff&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
 
 </td>
 </tr>
