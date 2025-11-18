@@ -78,7 +78,13 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 
 </div>
 
+<div align="center">
 
+### </Code. Ship. Improve. Repeat.>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 
 
