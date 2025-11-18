@@ -77,7 +77,7 @@ solve real-world problems,  and deliver end-to-end products that are impactful,
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elslinee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c592e7&line=c592e7&point=FF7B72&area=true&area_color=58A6FF&title_color=c592e7&custom_title=Contribution%20Activity%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elslinee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c592e7&line=c592e7&point=fff&area=true&area_color=58A6FF&title_color=c592e7&custom_title=Contribution%20Activity%20Graph" />
 
 </div>
 
