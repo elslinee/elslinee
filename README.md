@@ -50,7 +50,14 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 <img src="https://skillicons.dev/icons?i=git,vscode,postman,notion&theme=dark" />
 </p>
 
-**Specializations**
+**Social Contact**
+
+<p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourprofile)
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/Cisco%20UCCX-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
