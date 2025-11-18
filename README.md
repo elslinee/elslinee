@@ -13,10 +13,9 @@
 <hr/>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <h3 align="left">👨‍💻 About Me</h3>
-
 <table>
   <tr>
-    <td width="600">
+    <td width="500">
       <h4 align="left">
       I'm a Full-Stack Developer driven by a passion for creating high-performance, accessible, and visually engaging digital experiences.<br><br>
       I build modern, scalable applications across both the frontend and backend, ensuring seamless performance, strong security, and clean architecture.<br><br>
@@ -24,8 +23,12 @@
       My mission is to innovate, solve real-world challenges, and deliver end-to-end products that are both impactful and enjoyable to use.
       </h4>
     </td>
+    <td width="260">
+      <img alt="Coding" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+    </td>
   </tr>
 </table>
+
 <br/>
 
 <h3 align="left">🛠️ Tech Stack</h3>
