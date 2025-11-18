@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ahmed you can tell me </h1>
+<h1 align="left">Hi 👋, I'm Ahmed you can call me 👇 </h1>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer" width="100%" /><h3 align="left">I'm a Frontend Developer with a deep passion for transforming ideas into fast,
