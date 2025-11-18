@@ -47,7 +47,7 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 **Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,notion&theme=dark" />
 </p>
 
 **Specializations**
