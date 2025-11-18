@@ -5,8 +5,7 @@
 <div align="center">
 
 
-📧 **Email:** [shadow.xox78@gmail.com](mailto:shadow.xox78@gmail.com) • 📱 **Phone:** [+1234567890](tel:+1234567890)
-
+📧 **Email:** [Email](mailto:am25050968@gmail.com) • 📱 **Phone:** [Phone](tel:+201001077694)
 </div>
 
 ---
