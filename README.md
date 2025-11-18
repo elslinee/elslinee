@@ -56,17 +56,9 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 
 
 
-<table>
-<tr>
-<td align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&count_private=true"/>
 
 </td>
 <td align="center">
 
-<img height="195" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&layout=compact"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&layout=compact"/>
