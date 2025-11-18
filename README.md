@@ -55,11 +55,20 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 </p>
 
 
-
-
-
-<br>
-tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<br>
+<table>
+<tr>
+<td align="center">
 
 ![elslinee's Stats](https://github-readme-stats.vercel.app/api?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+
+</td>
+<td align="center">
+
+![elslinee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elslinee&theme=material-palenight&hide_border=true)
+
+</td>
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-x78&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
+
+</tr>
+</table>
