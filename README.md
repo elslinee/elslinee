@@ -15,7 +15,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <h4 align="left">I'm a Full-Stack Developer driven by a passion for turning ideas into high-performance, accessible, and visually engaging digital experiences. <br> I build modern, scalable applications across both the frontend and backend, <br> ensuring seamless performance, strong security, and clean architecture.<br>
-With a focus on reliability, responsiveness, and SEO, I craft intuitive user journeys backed by robust server-side logic and efficient data handling.
+With a focus on reliability, responsiveness, and SEO, <br> I craft intuitive user journeys backed by robust server-side logic and efficient data handling.
 My mission is to innovate, solve real-world problems, and deliver end-to-end products that are impactful,
 </h4>
 <br/>
