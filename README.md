@@ -4,12 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer" width="100%" />
 <div align="center">
 
-
-📧 **Email:** [Email](mailto:am25050968@gmail.com) • 📱 **Phone:** [Phone](tel:+201001077694)
-</div>
-
----
-
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
