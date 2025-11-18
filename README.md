@@ -13,9 +13,59 @@ With a focus on reliability, responsiveness, and SEO, I craft intuitive user jou
 My mission is to innovate, solve real-world problems, and deliver end-to-end products that are impactful,</h3>
 
 <br>
+### 🛠️ Tech Stack
 
-<br>
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,gsap&theme=dark" />
+</p>
+
+**Backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,express,java&theme=dark" />
+</p>
+
+**Mobile**
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+</p>
+
+**Automation**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+**Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark" />
+</p>
+
+**Specializations**
+
+<p>
+<img src="https://img.shields.io/badge/Cisco%20UCCX-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/IVR%20Scripts-FF6B6B?style=for-the-badge&logo=phonepe&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Development-00D9FF?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-45B7D1?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
+
+</div>
+
+---
+
 <p align="left">
 <a href="https://x.com/elslinee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/elslinee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elsline/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elsline/" height="30" width="40" /></a>
