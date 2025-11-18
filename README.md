@@ -57,7 +57,20 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 
 
 
+<table>
+<tr>
+<td align="center">
 
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=elslinee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=Shadow-x78's%20GitHub%20Analytics"/>
+
+</td>
+<td align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
+
+</td>
+</tr>
+</table>
 
 ![elslinee's Stats](https://github-readme-stats.vercel.app/api?username=elslinee&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
