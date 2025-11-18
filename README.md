@@ -23,25 +23,19 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 **Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,gsap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss&theme=dark" />
 </p>
 
 **Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,express,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 **Mobile**
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-</p>
-
-**Automation**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
 **Database**
