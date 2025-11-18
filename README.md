@@ -61,12 +61,12 @@ My mission is to innovate, solve real-world problems, and deliver end-to-end pro
 <tr>
 <td align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=elslinee's%20GitHub%20Analytics"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Ahmed&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&custom_title=elslinee's%20GitHub%20Analytics"/>
 
 </td>
 <td align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elslinee&layout=compact&langs_count=8&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
 
 </td>
 </tr>
