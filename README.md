@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ahmed</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20IVR%20Specialist&descAlignY=60&descSize=20" width="100%" />
 <h3 align="left">I'm a Frontend Developer with a deep passion for transforming ideas into fast,
 accessible, and visually compelling web experiences. I specialize in building modern,
 scalable applications that prioritize performance, responsiveness, and SEO. With a
