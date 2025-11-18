@@ -3,21 +3,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jinx&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer" width="100%" />
 <div align="center">
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-**Social Contact**
-
 <p>
 <a href="https://x.com/elslinee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/twitter-x.svg" alt="https://x.com/elslinee" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/elsline/" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" alt="https://www.linkedin.com/in/elsline/" height="30" width="40" /></a>
-
 <a href="https://fb.com/elsline/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/facebook.svg" alt="https://www.facebook.com/elsline/" height="30" width="40" /></a>
-
-
 <a href="https://instagram.com/elsline__/" target="_blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/instagram.svg" alt="https://www.instagram.com/elsline__/" height="30" width="40" /></a>
-
 </p>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+
+
 
 
 <h3 align="left">👨‍💻 About Me</h3>
